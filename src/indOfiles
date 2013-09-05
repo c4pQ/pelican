@@ -1,0 +1,1 @@
+MYOBJ = JidWidget.o Roster.o XEventQueue.o ClientNodesVector.o XmppClient.o common.o
